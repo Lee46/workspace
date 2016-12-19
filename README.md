@@ -16,6 +16,7 @@
 <h5 id='opensource'>开源项目</h5>[:arrow_up:](#tags)
 ##### [一款音乐播放器 Music Player: From UI Proposal to Code](https://github.com/andremion/Music-Player)
 ##### [来，谷歌安卓浏览器源码就在这！](http://blog.csdn.net/rain_butterfly/article/details/51870727)
+##### [Android 实现视屏播放器、边播边缓存功能IJKPlayer](https://github.com/CarGuo/GSYVideoPlayer)
 
 <h5 id='hotfix'>android热修复</h5>[:arrow_up:](#tags)
 ##### [阿里热修复方案！](https://github.com/alibaba/dexposed)
