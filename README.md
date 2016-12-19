@@ -11,6 +11,7 @@
 ##### [切图标注工具](http://www.fancynode.com.cn/pxcook)
 ##### [android开发工具包含设UI设计工具](http://www.androiddevtools.cn/)
 ##### [RGB颜色对照表](http://www.917118.com/tool/color_3.html)
+##### [号称全世界最快的JSON解析器，比别的快10x](https://www.oschina.net/news/80080/fastest-json-iterator?from=20161218)
 
 <h5 id='opensource'>开源项目</h5>[:arrow_up:](#tags)
 ##### [一款音乐播放器 Music Player: From UI Proposal to Code](https://github.com/andremion/Music-Player)
