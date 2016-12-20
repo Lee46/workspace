@@ -5,6 +5,7 @@
 [android工具](#tools)&emsp;&emsp;
 [开源项目](#opensource)&emsp;&emsp;
 [android热修复](#hotfix)&emsp;&emsp;
+[插件式开发](#plugin)&emsp;&emsp;
 [OkHttp](#okhttp)&emsp;&emsp;
 
 <h5 id='tools'>android工具</h5>[:arrow_up:](#tags)
@@ -21,6 +22,9 @@
 <h5 id='hotfix'>android热修复</h5>[:arrow_up:](#tags)
 ##### [阿里热修复方案！](https://github.com/alibaba/dexposed)
 ##### [AndFix的使用详解](http://www.jianshu.com/p/18ea46e823a3)
+
+<h5 id='plugin'>插件式开发</h5>[:arrow_up:](#tags)
+##### [DroidPlugin是360手机助手在Android系统上实现了一种新的插件机制](https://github.com/DroidPluginTeam/DroidPlugin)
 
 <h5 id='okhttp'>OkHttp</h5>[:arrow_up:](#tags)
 ##### [OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
