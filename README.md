@@ -24,7 +24,9 @@
 ##### [AndFix的使用详解](http://www.jianshu.com/p/18ea46e823a3)
 
 <h5 id='plugin'>插件式开发</h5>[:arrow_up:](#tags)
+##### [Android组件化和插件化开发](http://www.cnblogs.com/android-blogs/p/5703355.html)
 ##### [DroidPlugin是360手机助手在Android系统上实现了一种新的插件机制](https://github.com/DroidPluginTeam/DroidPlugin)
+##### [DynamicAPK是一套用于实现多dex/apk加载的解决方案，已经在携程旅行Android App中使用](https://github.com/CtripMobile/DynamicAPK)
 
 <h5 id='okhttp'>OkHttp</h5>[:arrow_up:](#tags)
 ##### [OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
