@@ -7,6 +7,7 @@
 [android热修复](#hotfix)&emsp;&emsp;
 [插件式开发](#plugin)&emsp;&emsp;
 [OkHttp](#okhttp)&emsp;&emsp;
+[设计模式](#pattern)&emsp;&emsp;
 
 <h5 id='tools'>android工具</h5>[:arrow_up:](#tags)
 ##### [切图标注工具](http://www.fancynode.com.cn/pxcook)
@@ -37,3 +38,6 @@
 ##### [拆轮子系列：拆 OkHttp](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
 ##### [带你学开源项目：OkHttp--自己动手实现okhttp](https://wingjay.com/2016/07/21/%E5%B8%A6%E4%BD%A0%E5%AD%A6%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9AOkHttp-%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0okhttp/)
 
+<h5 id='pattern'>设计模式</h5>[:arrow_up:](#tags)
+##### [史上最全设计模式导学目录（完整版）](http://blog.csdn.net/lovelion/article/details/17517213)
+##### [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
