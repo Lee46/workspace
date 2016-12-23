@@ -8,6 +8,7 @@
 [插件式开发](#plugin)&emsp;&emsp;
 [OkHttp](#okhttp)&emsp;&emsp;
 [设计模式](#pattern)&emsp;&emsp;
+[效果组件](#view)&emsp;&emsp;
 
 <h5 id='tools'>android工具</h5>[:arrow_up:](#tags)
 ##### [切图标注工具](http://www.fancynode.com.cn/pxcook)
@@ -41,3 +42,12 @@
 <h5 id='pattern'>设计模式</h5>[:arrow_up:](#tags)
 ##### [史上最全设计模式导学目录（完整版）](http://blog.csdn.net/lovelion/article/details/17517213)
 ##### [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+
+<h5 id='view'>效果组件</h5>[:arrow_up:](#tags)
+##### [Android-QuickSideBar帮助快速查阅对应分组的侧边栏，可以配合任意列表](https://github.com/saiwu-bigkoo/Android-QuickSideBar)
+##### [PullZoomView支持下拉时HeaderView缩放的ListView、ScrollView](https://github.com/Frank-Zhu/PullZoomView)
+##### [PullToZoomInListView滑动ListView时使其HeaderView跟随滑动缩放](https://github.com/matrixxun/PullToZoomInListView)
+##### [CalendarListview实现每个月一行日历效果的ListView](https://github.com/traex/CalendarListview)[原理剖析文档：CalendarListview](http://a.codekk.com/detail/Android/Rogary/CalendarListView%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
+##### [ScrollerCalendar实现每行显示一年的12个月份的RecyclerView年历](https://github.com/guanchao/ScrollerCalendar)
+##### [WaterDropListView模仿iOS下拉刷新“水滴”效果，支持下拉刷新和上拉加载](https://github.com/THEONE10211024/WaterDropListView)
+##### [DragLayout使用support.v4包下的ViewDragHelper实现QQ5.0侧滑](https://github.com/BlueMor/DragLayout)
