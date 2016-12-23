@@ -45,9 +45,22 @@
 
 <h5 id='view'>效果组件</h5>[:arrow_up:](#tags)
 ##### [Android-QuickSideBar帮助快速查阅对应分组的侧边栏，可以配合任意列表](https://github.com/saiwu-bigkoo/Android-QuickSideBar)
+![](https://github.com/Lee46/workspace/blob/master/res/quicksidebardemo.gif) 
+
 ##### [PullZoomView支持下拉时HeaderView缩放的ListView、ScrollView](https://github.com/Frank-Zhu/PullZoomView)
+![](https://github.com/Lee46/workspace/blob/master/res/pull-to-zoom.gif) 
+
 ##### [PullToZoomInListView滑动ListView时使其HeaderView跟随滑动缩放](https://github.com/matrixxun/PullToZoomInListView)
+![](https://github.com/Lee46/workspace/blob/master/res/PullToZoomInListView.gif)  
+
 ##### [CalendarListview实现每个月一行日历效果的ListView](https://github.com/traex/CalendarListview)    [原理剖析文档：CalendarListview](http://a.codekk.com/detail/Android/Rogary/CalendarListView%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
+![](https://github.com/Lee46/workspace/blob/master/res/demo.gif)  
+
 ##### [ScrollerCalendar实现每行显示一年的12个月份的RecyclerView年历](https://github.com/guanchao/ScrollerCalendar)
+![](https://github.com/Lee46/workspace/blob/master/res/sample2.gif)  
+
 ##### [WaterDropListView模仿iOS下拉刷新“水滴”效果，支持下拉刷新和上拉加载](https://github.com/THEONE10211024/WaterDropListView)
+![](https://github.com/Lee46/workspace/blob/master/res/drop.gif)  
+
 ##### [DragLayout使用support.v4包下的ViewDragHelper实现QQ5.0侧滑](https://github.com/BlueMor/DragLayout)
+![](https://github.com/Lee46/workspace/blob/master/res/123.gif)  
